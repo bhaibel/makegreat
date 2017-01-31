@@ -1,0 +1,25 @@
+canvas {
+  border: 1px black solid;
+  float: left;
+  margin: 1em;
+}
+
+form {
+  float: left;
+  margin: 1em;
+}
+
+input {
+  display: block;
+  margin-bottom: 2em;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.25em;
+}
+
+footer {
+  margin: 1em;
+  clear: both;
+}
